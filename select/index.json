@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Engel",
+  "base_artist": "Rammstein",
+  "createdAt": "2026-02-18T15:58:53.921504Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Engel der Nacht",
+      "artist": "Blümchen",
+      "has_synced": false,
+      "path": "select/01_Engel_der_Nacht_Blümchen.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blauer Engel",
+      "artist": "Alphaville",
+      "has_synced": false,
+      "path": "select/02_Blauer_Engel_Alphaville.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Engel der Nacht",
+      "artist": "Elis",
+      "has_synced": true,
+      "path": "select/03_Engel_der_Nacht_Elis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hospitalistische Kinder:Engel der Vernichtung",
+      "artist": "Einstürzende Neubauten",
+      "has_synced": false,
+      "path": "select/04_Hospitalistische_Kinder_Engel_der_Vernichtung_Einstürzende_Neubauten.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Engel",
+      "artist": "Rammstein",
+      "has_synced": true,
+      "path": "select/05_Engel_Rammstein.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Engel - Live",
+      "artist": "Rammstein",
+      "has_synced": true,
+      "path": "select/06_Engel_-_Live_Rammstein.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Heisskalter Engel",
+      "artist": "LaFee",
+      "has_synced": false,
+      "path": "select/07_Heisskalter_Engel_LaFee.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Engel der Nacht",
+      "artist": "Nena",
+      "has_synced": true,
+      "path": "select/08_Engel_der_Nacht_Nena.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Engel",
+      "artist": "Rammstein",
+      "has_synced": true,
+      "path": "select/09_Engel_Rammstein.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Engel (English Version)",
+      "artist": "Rammstein",
+      "has_synced": true,
+      "path": "select/10_Engel_(English_Version)_Rammstein.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Engel",
+      "artist": "Rammstein",
+      "has_synced": true,
+      "path": "select/11_Engel_Rammstein.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Der engel",
+      "artist": "Andrea Bocelli",
+      "has_synced": true,
+      "path": "select/12_Der_engel_Andrea_Bocelli.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Engel",
+      "artist": "Rammstein",
+      "has_synced": true,
+      "path": "select/13_Engel_Rammstein.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Engel",
+      "artist": "Feuerschwanz",
+      "has_synced": true,
+      "path": "select/14_Engel_Feuerschwanz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Engel",
+      "artist": "Rammstein",
+      "has_synced": false,
+      "path": "select/pl_01_Engel_Rammstein.txt"
+    }
+  ]
+}
